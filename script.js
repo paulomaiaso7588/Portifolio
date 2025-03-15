@@ -1,3 +1,3 @@
-function Mostraremail() {
-  alert(Contato Drdarkness39@gmail.com)
+function mostrarEmail() {
+    alert("Meu email é: Drdarkness39@gmail.com");
 }
